@@ -20,7 +20,7 @@
 
 I'm a Software Engineer who is passionate about writing code, solving problems, automating stuff, and building software.
 - 💻 I’m currently a Software Engineer Master Student at Farhat Abbas University.
-- 👨🏻‍💻 I’m currently learning backend web development using NodeJS, ExpressJS and MongoDB. 
+- 👨🏻‍💻 currently learning backend web development using NodeJS, ExpressJS and MongoDB. 
 - 🌐 I’m looking for a software development internship , i'm always looking for opportunities I love to learn and contribute in any and every possible way.
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:
