@@ -34,8 +34,8 @@ I'm a Software Engineer who is passionate about writing code, solving problems, 
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
-  <br />
-  ![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=java)
+- 💻 &nbsp;
+  ![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=java&logoColor=ff0019)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
@@ -43,7 +43,7 @@ I'm a Software Engineer who is passionate about writing code, solving problems, 
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=Eclipse&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=Eclipse&logoColor=fc03df)
 <br/>
 
 ⭐️ From [islemwilcher](https://github.com/islemwilcher)
