@@ -33,10 +33,10 @@ I'm a Software Engineer who is passionate about writing code, solving problems, 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express
+  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
 - 💻 &nbsp;
   ![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=java&logoColor=ff0019)
-  ![PYTHON](https://img.shields.io/badge/-PYTHON-333333?style=flat&logo=PYTHON&logoColor=ff0019)
+  ![PYTHON](https://img.shields.io/badge/-PYTHON-333333?style=flat&logo=PYTHON&logoColor=3492eb)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
