@@ -38,12 +38,14 @@ I'm a Software Engineer who is passionate about writing code, solving problems, 
   ![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=java&logoColor=ff0019)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  [Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=Eclipse&logoColor=fc03df)
+  ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pYCHARM&logoColor=fc03df)
 <br/>
 
 ⭐️ From [islemwilcher](https://github.com/islemwilcher)
