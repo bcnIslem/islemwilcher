@@ -20,10 +20,10 @@
 
 I'm a Software Engineer who is passionate about writing code, solving problems, automating stuff, and building software.
 - 💻 I’m currently a Software Engineer Master Student at Farhat Abbas University.
-- 👨🏻‍💻 I am a full stack web developer, using the MERN stack technologies: REACTJS, NODEJS(EXPRESSJS), MONGODB.
+- 👨🏻‍💻 I am a full stack web developer, using the MERN stack technologies and the MYSQL database: REACTJS, NODEJS(EXPRESSJS), MONGODB.
 - 🌐 I’m looking for a software development internship , i'm always looking for opportunities I love to learn and contribute in any and every possible way.
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:
+-  **Learning to be great :** Full-Stack Developer :zap:
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -38,6 +38,7 @@ I'm a Software Engineer who is passionate about writing code, solving problems, 
   ![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=java&logoColor=ff0019)
   ![PYTHON](https://img.shields.io/badge/-PYTHON-333333?style=flat&logo=PYTHON&logoColor=3492eb)
 - 🛢 &nbsp;
+  ![mysql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
 - ⚙️ &nbsp;
@@ -45,7 +46,6 @@ I'm a Software Engineer who is passionate about writing code, solving problems, 
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=Eclipse&logoColor=fc03df)
   ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm&logoColor=42f545)
 <br/>
 
